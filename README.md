@@ -1,4 +1,10 @@
  **SAS Analysis of Drug Treatment Impact on Fasting Blood Sugar**
+
+ ## Project Presentation
+
+The full project presentation and results can be viewed here:
+
+[SAS Project Presentation](SASProject3.pptx)
  
 **Project Overview**
 
